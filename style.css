@@ -1,0 +1,33 @@
+ul{
+    list-style: none;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 24px;
+}
+
+.horizontal{
+    display: flex;
+}
+.vertical{
+    display: flex;
+    flex-direction: column;
+}
+.headerHero{
+    display: flex;
+    gap: 0.5rem;
+}
+.headerGoof{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.topbar{
+    display: flex;   
+}
+body{
+    border: 0;
+    margin: 2rem;
+}
