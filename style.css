@@ -18,10 +18,7 @@ p{
 .headerHero{
     display: flex;
     gap: 0.5rem;
-}
-.headerGoof{
-    display: flex;
-    flex-wrap: nowrap;
+
 }
 
 .topbar{
@@ -30,4 +27,7 @@ p{
 body{
     border: 0;
     margin: 2rem;
+}
+.jens{
+    color: white;
 }
