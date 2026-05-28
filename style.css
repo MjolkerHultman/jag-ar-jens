@@ -20,14 +20,22 @@ p{
     gap: 0.5rem;
 
 }
+.hero{
+    min
+}
 
-.topbar{
-    display: flex;   
+nav{
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: fit-content;
 }
 body{
     border: 0;
     margin: 2rem;
 }
 .jens{
-    
+    color: black;
+}
+.mainScrollContentListItem{
+    max-width: 50rem;
 }
